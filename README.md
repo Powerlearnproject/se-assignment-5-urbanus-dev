@@ -44,19 +44,25 @@ Click on the "Download for Windows" button to download the installer.
    
  **(i)Theme:**
 
-    Go to File > Preferences > Color Theme and select your preferred theme.
+      Go to File > Preferences > Color Theme and select your preferred theme.
 
-    Extensions:
+      Extensions:
 
       Install essential extensions like:
 
-     1. ESLint: For JavaScript/TypeScript linting.
-     2. Prettier: For code formatting.
-     3. Live Server: To run a development server for static and dynamic pages.
-     4. Python: If you plan to work with Python.
-     5. C/C++ for Visual Studio Code if working with C++ or C 
-     6. Flutter : if you plan to use the flutter for creation of mobile and websites
-     7. Dart: this will enable us use the  Dart programming language
+      ESLint: For JavaScript/TypeScript linting.
+
+      Prettier: For code formatting.
+
+      Live Server: To run a development server for static and dynamic pages.
+
+      Python: If you plan to work with Python.
+
+      C/C++ for Visual Studio Code if working with C++ or C
+
+      Flutter: If you plan to use the Flutter for creation of mobile and websites
+
+      Dart: This will enable us use the Dart programming language
 
     
  **Version Control:**
@@ -74,7 +80,7 @@ Click on the "Download for Windows" button to download the installer.
 
    **Select Destination Location:**
 
-      Use the default installation location or choose a different one, then click "Next".
+     Use the default installation location or choose a different one, then click "Next".
 
    **Select Components:**
 
@@ -184,7 +190,7 @@ Click on the "Download for Windows" button to download the installer.
    Install an extension
    To install an extension, select the Install button. Once the installation is complete, the Install button will change to the Manage gear button.
 
-      **Essential Extensions for Web Development:**
+         Essential Extensions for Web Development:
 
       HTML/CSS Support
 
@@ -324,7 +330,6 @@ Click on the "Download for Windows" button to download the installer.
 
       **REFERENCES**
       https://code.visualstudio.com/docs/getstarted/userinterface
-      https://code.visualstudio.com/docs/editor/extension- 
-       marketplace#:~:text=You%20can%20browse%20and%20install,Ctrl%2BShift%2BX).
+      https://code.visualstudio.com/docs/editor/extension-marketplace#:~:text=You%20can%20browse%20and%20install,Ctrl%2BShift%2BX).
       https://code.visualstudio.com/docs/terminal/basics
       https://github.com/urbanus-dev/commands
