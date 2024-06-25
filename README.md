@@ -322,8 +322,9 @@ Click on the "Download for Windows" button to download the installer.
       git push -u origin main
 
 
-
+      **REFERENCES**
       https://code.visualstudio.com/docs/getstarted/userinterface
-      https://code.visualstudio.com/docs/editor/extension-marketplace#:~:text=You%20can%20browse%20and%20install,Ctrl%2BShift%2BX).
+      https://code.visualstudio.com/docs/editor/extension- 
+       marketplace#:~:text=You%20can%20browse%20and%20install,Ctrl%2BShift%2BX).
       https://code.visualstudio.com/docs/terminal/basics
       https://github.com/urbanus-dev/commands
